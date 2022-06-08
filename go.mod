@@ -1,3 +1,3 @@
-module github.com/christianbagley-viz/websocket
+module github.com/gorilla/websocket
 
 go 1.12
